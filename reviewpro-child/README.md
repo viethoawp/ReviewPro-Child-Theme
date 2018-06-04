@@ -1,5 +1,5 @@
 ## ThemeJunkie ReviewPro Child Theme
-A child theme for ThemeJunkie ReviewPro.
+A child theme for [ThemeJunkie ReviewPro](https://www.theme-junkie.com/themes/reviewpro/).
 
 ## Build with
 <b>Built with</b>
@@ -11,13 +11,14 @@ A child theme for ThemeJunkie ReviewPro.
 - Optimize load time
 
 ## Installation
-Step 1: Install ReviewPro theme to your WordPress site 
-Step 2: Copy reviewpro-child to /wp-content/themes
-Step 3: Active ReviewPro Child Theme. Have fun :))
+- Step 1: Install ReviewPro theme to your WordPress site 
+- Step 2: Copy reviewpro-child to /wp-content/themes
+- Step 3: Active ReviewPro Child Theme. Have fun :))
 
 ## How to use?
-Just active theme :)
-To change color, use a text editor such as Notepad++ or Sublime Text.
-Change the color at style.css file.
+- Just active theme :)
+- To change color, use a text editor such as Notepad++ or Sublime Text.
+- Change the color at style.css file.
 
-MIT © [VietHoaWP]()
+##
+MIT © [VietHoaWP](https://viethoawp.blog)
